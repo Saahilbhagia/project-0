@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b152c66-ccae-49ef-852a-e74b27bcbc43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aNa08kjM3SC2Cmzvj636XPLzIl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.RangeTest">
+    <configuration name="Project0Evaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Project0Evaluation" />
+      <module name="CSC-143-Project0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSC-143-Project0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.HelloTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloTest.greetingTestName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSC-143-Project0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.HelloTest" />
+      <option name="METHOD_NAME" value="greetingTestName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloTest.greetingTestWorld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSC-143-Project0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.HelloTest" />
+      <option name="METHOD_NAME" value="greetingTestWorld" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RangeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSC-143-Project0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.RangeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RangeTest" />
+        <item itemvalue="JUnit.HelloTest" />
+        <item itemvalue="JUnit.HelloTest.greetingTestWorld" />
+        <item itemvalue="JUnit.HelloTest.greetingTestName" />
+        <item itemvalue="Application.Project0Evaluation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b152c66-ccae-49ef-852a-e74b27bcbc43" name="Default Changelist" comment="" />
+      <created>1586578279972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586578279972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1037" height="291" key="GridCell.Tab.0.bottom" timestamp="1601923185156">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1601923185156" />
+    <state width="1037" height="291" key="GridCell.Tab.0.center" timestamp="1601923185155">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="291" key="GridCell.Tab.0.center/0.0.1920.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1601923185155" />
+    <state width="1037" height="291" key="GridCell.Tab.0.left" timestamp="1601923185155">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="291" key="GridCell.Tab.0.left/0.0.1920.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1601923185155" />
+    <state width="1037" height="291" key="GridCell.Tab.0.right" timestamp="1601923185155">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="291" key="GridCell.Tab.0.right/0.0.1920.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1601923185155" />
+    <state x="-884" y="460" key="run.anything.popup" timestamp="1601921283032">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-884" y="460" key="run.anything.popup/0.0.1920.1050/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1601921283032" />
+  </component>
+</project>
